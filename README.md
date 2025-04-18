@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center">Senior Software Engineer</h3>
 
 - 🌱 I’m currently learning **Golang**
-- 👨‍💻 All of my projects are available at [swatik-sahoo : GitHub](https://github.com/SwatikSahoo)
+- 👨‍💻 All of my projects are available at [swatik-sahoo : GitHub](https://github.com/SwatikSahoo?tab=repositories)
 
 - 📫 How to reach me **swatiksahoo797@gmail.com**
 
