@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Swatik Sahoo</h1>
 <h3 align="center">Senior Software Engineer</h3>
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently exploring **GenAI**
 - 👨‍💻 All of my projects are available at [swatik-sahoo : GitHub](https://github.com/SwatikSahoo?tab=repositories)
 
 - 📫 How to reach me **swatiksahoo797@gmail.com**
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityanav123&show_icons=true&theme=gruvbox&locale=en&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="adityanav123" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityanav123&show_icons=true&theme=gruvbox&locale=en&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="adityanav123" /></p> -->
 
 <!--
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=adityanav123&show_icons=true&theme=gruvbox&locale=en&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="adityanav123" /></p>
